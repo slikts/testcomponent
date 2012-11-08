@@ -1,0 +1,9 @@
+{
+  "name": "testcomponent",
+  "repo": "slikts/testcomponent",
+  "description": "Test",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {}
+}
